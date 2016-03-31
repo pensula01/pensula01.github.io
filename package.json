@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "this is my resume.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newraina/Resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "newraina",
+  "license": "MIT",
+  "homepage": "https://github.com/newraina/Resume#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
